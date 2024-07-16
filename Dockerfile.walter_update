@@ -1,3 +1,5 @@
+# Lembrem de criar a imagem no mesmo diretorio em que estiver os arquivos PGAP-1.12.md5 e updatePaths.patch
+# Remember to run the image creation in the same directory as the PGAP-1.12.md5 and updatePaths.patch files
 # Base image from Ubuntu 22.04
 # Imagem base do Ubuntu 22.04
 FROM ubuntu:22.04
